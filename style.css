@@ -1,0 +1,26 @@
+.carre {
+  width: 75vw;
+  height: 25vw;
+  background-color: white;
+  position: relative;
+}
+
+.police {
+  font-size: 3vw !important;
+  font-family: "Bebas Neue Regular";
+}
+
+.image {
+  width: 20vw !important;
+}
+
+.image {
+  background-position: center;
+}
+
+@font-face {
+font-family: 'Bebas Neue Regular';
+font-style: normal;
+font-weight: normal;
+src: local('fonts/Bebas Neue Regular'), url('fonts/BebasNeue Regular.woff') format('woff');
+}
