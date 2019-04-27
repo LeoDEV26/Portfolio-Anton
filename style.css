@@ -18,6 +18,10 @@
   background-position: center;
 }
 
+.carousel {
+  margin-top: 3%;
+}
+
 @font-face {
 font-family: 'Bebas Neue Regular';
 font-style: normal;
