@@ -23,6 +23,13 @@
   margin-top: 3%;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @font-face {
 font-family: 'Bebas Neue Regular';
 font-style: normal;
